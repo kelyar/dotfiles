@@ -4,6 +4,7 @@ set shiftwidth=2
 set expandtab
 syntax on
 set background=light
+set number
 se t_Co=16
 let g:solarized_termcolors=256
 let g:solarized_termcolors= 256 
