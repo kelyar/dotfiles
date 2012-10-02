@@ -18,3 +18,6 @@ let g:solarized_visibility="normal"
 colorscheme solarized
 
 set noswapfile
+
+set list
+set listchars=trail:.
