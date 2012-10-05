@@ -1,0 +1,5 @@
+--color
+--type-add
+html=.html.erb,.html.haml,.haml
+--type-add
+css=.sass,.less,.scss
